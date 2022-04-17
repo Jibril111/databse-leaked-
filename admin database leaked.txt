@@ -1,0 +1,6 @@
+user_type_id,administrator_id,varkey,lastname,password,username,firstname,is_active,email_address,datetime_created
+1,1,0423201951853,Administrator,1YUoXkrcUppu1vTYrlTNHEa5xO9qU3ySCc/PM+GPPw==,bradfordshoes,System,1,bened@i-manila.com.ph,2011-10-05 00:00:00
+3,22,0613201614101,Capital,VIEPVm5B3W57mgYWVFMDE8aFnDezYQfwaGWrQD/2,cristinapro,Cristina,1,cristinacap93@gmail.com,2016-06-13 00:41:01
+4,23,0810201640240,Capital,UPh+dhEHdIc9gZ8kU1DeIXOt6pLobkIGre28O95H,cristinamkt,Cristina,1,cristinacam93@gmail.com,2016-06-13 00:42:49
+1,24,04052018120409,Raig,zYqleq3jGcss/F8Xo2keDmo0B5+aI/eO7b0wEw==,jessica,Jessica,1,jessicaraigbradford@gmail.com,2018-04-05 00:04:09
+1,25,0722202143650,A,Kb50isw8T61t3tL5QNZMV7CEdHK/RJE2sTsBIYrf,marcs21,Marcs,1,marcs@bradford.com,2021-07-23 00:36:50
