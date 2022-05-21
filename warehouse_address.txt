@@ -1,0 +1,31 @@
+ id | cid | zip   | city          | state | address                                  | warehouse     | created_dtm         | full_address                                           |
++----+-----+-------+---------------+-------+------------------------------------------+---------------+---------------------+--------------------------------------------------------+
+| 1  | 42  | 44149 | Strongsville  | OH    | 12930 Darice Parkway                     | Cleveland     | 2019-07-20 21:53:51 | 12930 Darice Pkwy. Strongsville OH 44149               |
+| 2  | 42  | 60131 | Franklin Park | IL    | 3708 River Road, Suite 600               | Chicago       | 2019-07-20 21:53:51 | 3708 River Rd. Ste. 600 Franklin Park IL 60131         |
+| 3  | 42  | 45011 | Hamilton      | OH    | 4438 Mulhauser Road, Suite 200           | Cincinnati    | 2019-07-20 21:53:51 | 4438 Mulhauser Rd. Ste. 200 Hamilton OH 45011          |
+| 4  | 42  | 64101 | Kansas City   | MO    | 780 Wyoming Street                       | Kansas City   | 2019-07-20 21:53:51 | 780 Wyoming St. Kansas City MO 64101                   |
+| 5  | 42  | 55112 | Arden Hills   | MN    | 1787 Gateway Blvd.                       | Minneapolis   | 2019-07-20 21:53:51 | 1787 Gateway Blvd. Arden Hills MN 55112                |
+| 6  | 42  | 48111 | Belleville    | MI    | 8500 Haggerty Road Suite 110             | Detroit       | 2019-07-20 21:53:51 | 8500 Haggerty Rd. Ste. 110 Belleville MI 48111         |
+| 7  | 42  | 91706 | Irwindale     | CA    | 4981 Fourth Street                       | Los Angeles   | 2019-07-20 21:53:51 | 4981 Fourth St. Irwindale CA 91706                     |
+| 8  | 42  | 94621 | Oakland       | CA    | 7200 Edgewater Drive                     | Oakland       | 2019-07-20 21:53:51 | 7200 Edgewater Dr. Oakland CA 94621                    |
+| 9  | 42  | 85353 | Phoenix       | AZ    | 901 S 86th Ave STE 102                   | Phoenix       | 2019-07-20 21:53:51 | 901 S 86th Ave STE 102 Tolleson AZ 85353               |
+| 10 | 42  | 98001 | Auburn        | WA    | 3422 B Street NW                         | Seattle       | 2019-07-20 21:53:51 | 3422 B Street NW Auburn WA 98001                       |
+| 11 | 42  | 30096 | Duluth        | GA    | 3290 Summit Ridge Parkway                | Atlanta       | 2019-07-20 21:53:51 | 3290 Summit Ridge Pkwy. Duluth GA 30096                |
+| 12 | 42  | 33312 | Hollywood     | FL    | 3999 SW 30 Ave., Suite 600               | Miami         | 2019-07-20 21:53:51 | 3999 S.W. 30 Ave. Ste. 600 Hollywood FL 33312          |
+| 13 | 42  | 33619 | Tampa         | FL    | 4561 Madison Industrial Lane             | Tampa         | 2019-07-20 21:53:51 | 4561 Madison Industrial Ln. Tampa FL 33619             |
+| 14 | 42  | 28269 | Charlotte     | NC    | 3010 Hutchison McDonald Road, Suite C.   | Charlotte     | 2019-07-20 21:53:51 | 3010 Hutchison McDonald Rd. Ste. C Charlotte NC 28269  |
+| 15 | 42  | 23150 | Sandston      | VA    | 5401 Lewis Road, Unit C                  | Richmond      | 2019-07-20 21:53:51 | 5401 Lewis Rd. Unit C Sandston VA 23150                |
+| 16 | 42  | 75050 | Grand Prairie | TX    | 410 W. Trinity Blvd. #200                | Dallas        | 2019-07-20 21:53:51 | 410 W. Trinity Blvd. #200 Grand Prairie TX 75050       |
+| 17 | 42  | 77043 | Houston       | TX    | 3550 Brittmoore Road, Suite 190          | Houston       | 2019-07-20 21:53:51 | 3550 Brittmoore Rd. Ste. 190 Houston TX 77043          |
+| 18 | 42  | 78154 | Schertz       | TX    | 1012 Assembly Circle, Suite 200          | San Antonio   | 2019-07-20 21:53:51 | 1012 Assembly Cir. Ste. 200 Schertz TX 78154           |
+| 19 | 42  | 80238 | Denver        | CO    | 10040 East 40th Avenue                   | Denver        | 2019-07-20 21:53:51 | 10040 E. 40th Ave. Denver CO 80238                     |
+| 20 | 42  | 7071  | Lyndhurst     | NJ    | 1150 Valley Brook Avenue                 | New Jersey    | 2019-07-20 21:53:51 | 1150 Valley Brook Ave. Lyndhurst NJ 7071               |
+| 21 | 42  | 21075 | Elkridge      | MD    | 6635 Business Parkway, Suite 200         | Baltimore     | 2019-07-20 21:53:51 | 6635 Business Pkwy. Ste. 200 Elkridge MD 21075         |
+| 22 | 42  | 19057 | Levittown     | PA    | 37 Runway Road, Unit C.                  | Philadelphia  | 2019-07-20 21:53:51 | 37 Runway Rd. Unit C Levittown PA 19057                |
+| 23 | 42  | 11788 | Hauppauge     | NY    | 2040 Express Drive South, Unit 100       | Long Island   | 2019-07-20 21:53:51 | 2040 Express Dr. S.Unit 100 Hauppauge NY 11788         |
+| 24 | 42  | 63147 | Louis         | MO    | 8000 Hall Street Building 4 Suite D St.  | St. Louis DC  | 2019-07-20 21:53:51 | 8000 Hall Street Building 4 Suite D St. Louis MO 63147 |
+| 25 | 42  | 29016 | Blythewood    |  SC   | 116 Belk Court Suite 2                   | Columbia      | 2019-07-20 21:53:51 | 116 Belk Court, Suite 2, Blythewood, SC 29016          |
+| 26 | 42  | 33905 | Fort Myers    | FL    | 9359 Laredo Avenue, Suite 130            | Fort Myers    | 2019-07-20 21:53:51 | 9359 Laredo Avenue, Suite 130, Fort Myers, FL 33905    |
+| 27 | 42  | 6032  | Farmington    | CT    | 21 Hyde Rd, Unit 1-B                     | Hartford      | 2019-07-20 21:53:51 | 21 Hyde Rd, Unit 1-B, Farmington, CT 06032             |
+| 28 | 42  | 2038  | Franklin      | MA    | 12 Forge Parkway                         | Boston        | 2019-07-20 21:53:51 | 12 Forge Pkwy Franklin, MA 02038                       |
++----+-----+-------+---------------+-------+------------------------------------------+---------------+---------------------+--------------------------------------------------------+
